@@ -28,8 +28,9 @@ Me apasiona construir soluciones digitales y aprender nuevas tecnologías. Actua
 
 ### 📊 Estadísticas de GitHub
 
-![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=Aitoraros&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Aitoraros&layout=compact&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=Aitoraros&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Aitoraros&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aitoraros&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
