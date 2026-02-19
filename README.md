@@ -34,6 +34,6 @@ Me apasiona construir soluciones digitales y aprender nuevas tecnologías. Actua
 
 ### 📫 Cómo contactarme
 * 💼 Conectemos en [LinkedIn](https://www.linkedin.com/in/aitorarosteguinavarro/)
-* 📧 Envíame un correo: [📧](aitorarosteguinavarro@gmail.com)
+* 📧 Envíame un correo: [📧](mailto:aitorarosteguinavarro@gmail.com)
 
 ---
