@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/Aitoraros/Aitoraros/main/banner.png)
+
 # ¡Hola! Soy Aitor Aróstegui 👋
 
 ### 🚀 Estudiante de 1º de DAW
