@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aitoraros/Aitoraros/main/banner.png" width="800"/>
+  <img src="https://raw.githubusercontent.com/Aitoraros/Aitoraros/main/banner.png" heigth="500"/>
 </p>
 
 # ¡Hola! Soy Aitor Aróstegui 👋
