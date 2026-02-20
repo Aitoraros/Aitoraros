@@ -1,4 +1,6 @@
-![Banner](https://raw.githubusercontent.com/Aitoraros/Aitoraros/main/banner.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aitoraros/Aitoraros/main/banner.png" width="800"/>
+</p>
 
 # ¡Hola! Soy Aitor Aróstegui 👋
 
