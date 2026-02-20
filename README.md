@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aitoraros/Aitoraros/main/banner.png" 
-       width="60%" 
+  <img src="https://raw.githubusercontent.com/Aitoraros/Aitoraros/main/banner1.png" 
+       width="100%" 
        height="250px"
        style="object-fit: cover;"/>
 </p>
