@@ -33,7 +33,7 @@ Me apasiona construir soluciones digitales y aprender nuevas tecnologías. Actua
 
 ---
 
-### 🚀 Algunos de mis proyectos
+### ⌨️ Algunos de mis proyectos
 
 | Proyecto | Estado | Enlace |
 | :--- | :--- | :---: |
