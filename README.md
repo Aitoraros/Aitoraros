@@ -55,3 +55,5 @@ Me apasiona construir soluciones digitales y aprender nuevas tecnologías. Actua
 * 📧 Envíame un correo: [📧](mailto:aitorarosteguinavarro@gmail.com)
 
 ---
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Aitoraros)
