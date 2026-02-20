@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aitoraros/Aitoraros/main/banner.png" heigth="500"/>
+  <img src="https://raw.githubusercontent.com/Aitoraros/Aitoraros/main/banner.png" 
+       width="100%" 
+       height="250px"
+       style="object-fit: cover;"/>
 </p>
 
 # ¡Hola! Soy Aitor Aróstegui 👋
