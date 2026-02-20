@@ -33,6 +33,15 @@ Me apasiona construir soluciones digitales y aprender nuevas tecnologías. Actua
 
 ---
 
+### 🚀 Algunos de mis proyectos
+
+| Proyecto | Estado | Enlace |
+| :--- | :--- | :---: |
+| BBDD Spotify | ✅ Terminado | [Ver repo](https://github.com/Aitoraros/BBDD-Spotify) |
+| Ejercicios en C# | 🚧 En desarrollo | [Ver repo](https://github.com/Aitoraros/web) |
+
+---
+
 ### 📊 Estadísticas de GitHub
 
 ![](https://github-readme-stats.vercel.app/api?username=Aitoraros&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
