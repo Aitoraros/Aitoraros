@@ -9,7 +9,7 @@
 
 ### 🚀 Estudiante de 1º de DAW
 
-Me apasiona construir soluciones digitales y aprender nuevas tecnologías. Actualmente estoy enfocado en asentar bases sólidas en programación y gestión de datos.
+Me apasiona construir soluciones digitales y aprender nuevas tecnologías. Actualmente estoy enfocado en asentar bases sólidas en **programación** y **gestión de datos**.
 
 ---
 
