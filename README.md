@@ -47,16 +47,13 @@ Me apasiona construir soluciones digitales y aprender nuevas tecnologías. Actua
 ![](https://github-readme-stats.vercel.app/api?username=Aitoraros&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Aitoraros&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aitoraros&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Aitoraros)
 
 ---
 
 ### 📫 Cómo contactarme
 * 💼 Conectemos en [LinkedIn](https://www.linkedin.com/in/aitorarosteguinavarro/)
 * 📧 Envíame un correo: [📧](mailto:aitorarosteguinavarro@gmail.com)
-
----
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Aitoraros)
 
 ---
 
