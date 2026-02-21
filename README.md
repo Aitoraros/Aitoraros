@@ -57,3 +57,8 @@ Me apasiona construir soluciones digitales y aprender nuevas tecnologías. Actua
 ---
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Aitoraros)
+
+---
+
+> *"La programación no trata de lo que sabes, sino de lo que puedes llegar a descubrir."*
+> — **Chris Pine**
