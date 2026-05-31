@@ -38,6 +38,7 @@ Me apasiona construir soluciones digitales y aprender nuevas tecnologías. Actua
 | Proyecto | Estado | Enlace |
 | :--- | :--- | :---: |
 | BBDD Spotify | ✅ Terminado | [Ver repo](https://github.com/Aitoraros/BBDD-Spotify) |
+| Gestión-ITV | ✅ Terminado | [Ver repo](https://github.com/Aitoraros/ProyectoFinal-ITV) |
 | Ejercicios en C# | 🚧 En desarrollo | [Ver repo](https://github.com/Aitoraros/Ejercicios1DAW-Programacion) |
 
 ---
