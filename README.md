@@ -7,7 +7,7 @@
 
 # ¡Hola! Soy Aitor Aróstegui 👋
 
-### 🚀 Estudiante de 1º de DAW
+### 🚀 Estudiante de 2º de DAW
 
 Me apasiona construir soluciones digitales y aprender nuevas tecnologías. Actualmente estoy enfocado en asentar bases sólidas en **programación** y **gestión de datos**.
 
@@ -39,7 +39,7 @@ Me apasiona construir soluciones digitales y aprender nuevas tecnologías. Actua
 | :--- | :--- | :---: |
 | BBDD Spotify | ✅ Terminado | [Ver repo](https://github.com/Aitoraros/BBDD-Spotify) |
 | Gestión-ITV | ✅ Terminado | [Ver repo](https://github.com/Aitoraros/ProyectoFinal-ITV) |
-| Ejercicios en C# | 🚧 En desarrollo | [Ver repo](https://github.com/Aitoraros/Ejercicios1DAW-Programacion) |
+| Gestión-Biblioteca | 🚧 En desarrollo | [Ver repo](https://github.com/Aitoraros/Gestion-Biblioteca) |
 
 ---
 
